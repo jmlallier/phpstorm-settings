@@ -1,0 +1,68 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="444989f6-eac8-417d-98e9-281f6e2161fe" name="tipmonkey" url="http://tipmonkeyapp.com/">
+        <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="11f6e693-5acb-4b39-b722-39e4a1e80cd8" name="PIP Law (Shuster &amp; Saben)" url="http://piplaw.com/">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4780ceb6-5de1-4757-9367-84de9c25e067" name="Advanced Furniture Solutions" url="http://advancedfurnituresolutions.com">
+        <fileTransfer host="ftp.advancedfurnituresolutions.com" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bd11d8c4-2f91-48b1-8ab2-9c7addc9c9e4" name="Kenroy Homes" url="http://kenroyhome.com">
+        <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bd88ad1b-b974-455b-be01-bdf261f59641" name="Ergodock" url="http://ergodockusa.com">
+        <fileTransfer host="ergodockusa.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="76aad58f-a34d-413d-a84e-cacc0d425552" name="Paired For Care" url="http://pairedforcare.com">
+        <fileTransfer host="pairedforcare.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fb099b48-d70f-406d-995a-c4da9480b2f0" name="Local Siteadmin" url="http://siteadmin.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="fb436300-6c8d-4ab5-a059-b0bbf60264a6" name="The Parts House" url="http://143.95.239.3/~tphvendors">
+        <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAADcFMQ7nL3kjF7pjpzVub4BDUqfWRPX/aEDdiPML/IzRIOzFzZbI3kPyMvBcHZ7ML0Gd4qrRHEuuzSROmOEn4jH08yxdme6W4F7+UMFHfYDV77ZQXkBz584ee2VfnbmrCSB1Zu6rZSnwQwfIfjgKpxsiHyQean9ZOZIFeeShGgl1hFm1f5b6Zg2Myli4qbEPQ8QYxakS+gPO/mfXmxpNQTPRbihylL3HFCmQzUR//u175JQ4Yk0IDZ7N6/c+kne90R9Pf5taXbAmb89E1GoP8n8JPOb6AetKM92/RaVABgjuakjiOlsoiDguOA/57rYf0Qu6heXuQQBwb3y8ZP8RiJvEJtydxK71ul1cRQlRyXUzo9dggB6gY9c6i87FpvEjEnqrVAomMdTbC6j3I12RthUFDnYUM+OGVUoUaQcF7wXD08kf1MgZFOEU1vlngnJzKnpo2tzaduoi7fBYo9Yt4mpQF6Vezg3IWCEg+7S/SPIhm1BYR6Xg8+hWmxn25KUWBbU1LaWR2dEY3ZjfxAFz4Mcz1bdMaCa4Lde/XoUNJMN927P07gX5fmcUXi2JjeWNgh9Bif+Hz94m32NTv/5UzHkf3sfKSiFnn1b590JIM93C3M/0RO4ycUGiN4PNNfRHE7qpNxCoq4BzkPguK3oq1O94dWa9ZYG4HdCY+c0nM8BB+DvFJa4X5l6tCvTPgtEUtb1gu3CwPpcFyFvj5mxocLO4YhHzqc2Wzrbv+fgaGdTkGfA7bsYg+AOFpvQdvay9r64vWQyqfGnludsjkmpOPr9czKHL6to5BQjt628g7SwSIAHSS/BhmfSJyemRsC6KpgTwQaw1KoGtM5y2lIx1XnAG8YbbMfAFs4r0DVFeUX0TKEknSej8CrqJ8C9JaLhY52JJuBVnus45blfVu5iomCH1C1T7c0Pp0IS0uzTln1bhroPLFRp3Gh70FkQyHvJ8Id+rtpZTsrPc5YNhM+OnMMIE8C4NuNeMQW7IzilPV65MDEFSvqIcSxeIyAkqvji29zJA+DhPa9pvNYbGY3Pt5ssk++2JYKWWrzityGft0zx5kEenXPljlZJfR6yXii83S3fdVNr4Yiq0wiocXFPo0IvM1hotdqJKPnK5FUGXv2ihnv7mvLREFvtquBcV2l/7ASZxhYZYrz6/xtv9XuTubHBjT/qx2k+6mU6LH2pHB7SiM2</data>
+  </component>
+</application>
