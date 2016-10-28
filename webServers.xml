@@ -60,9 +60,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e32f1945-1e20-4599-9f61-e0d71b8844ea" name="Ashley Brooke" url="http://ashleybrookephoto.com">
+        <fileTransfer host="ashleybrookephoto.com" port="22" rootFolder="/home1/ashleybr/public_html/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAADcFbEsXMt40+nQXmB0wE+8vUITikhey3z2K/pAA2fGR/4Df/erFDD01uBbjRA45UYCL5wgsbtWB3Tk50nWP2dHI8NIVOTTeFFNuTk011gg5tzz8D025u77Ph9WY/TjoYxaEFAviY5GE7FR/8xgwoQpHroOV2Zb1pdSoWNv7ybs+EXkfvqy32KmklV9Cu4RYXUs8J9959GSVyaJ1HWP4oGR6ZzqgT69HRzD6eb2Gjgsmkk54lH3ABlskpvjnjnMPnBCeYb7U/ipFtmflQi2EMJzVLXtIzBHwZDqNA0Mgozci+t1QTJIoaIrBqhxxUt1/ruI7P35kTsQfe+9ai17Ae8w2oUoiNNacyHz6ZByRA31tRS07IqntUy2avUt7sSoSmOO0/9V3N+N5fJj1T7BmjuGtckNBHGXbn2mjuNm299bdQIwrJ8ddq6vT0nhoGrfMTowyA8uPlFqTNLwN2PkHXmrfIyIqscHu6emQ+bohyyHTEeipVUepe/YtSHGFDigsPabA8EA5L+EzYeC+kvtodDxY9+AsvKfsjp2fHx1ne0BodJMSoZO9gJy3ScRrkU62PbUQC4xfsZCSNcYigeWQ28uY6ERemD2RU9XowJyjdsFHOIwb/Wb1nce8J7GurpOSV94XVbLvwavAr5aOOkZ6y9Z45N4N28549b1Dk6ZCfk0gZPZWmkUf0nUjxwNdV2lCrVe0UBccASpmxb85WKXy9lKJuvXmsSNkIj3ixYwseuv1YMvtnAKgbt0k4J3/HPeKiHRPiD6dFJpubyD/LjYNmRTzV8KQq4bkyQMGOQlKUH6T9LdzeoVzOtIiMh0+wjR4SiyCCvtDuVvttX+UEz/lsQRfU+owckDHjdmQBFjo5HtUuEevrXLNTgWQ7ecUx3UCFdUjUbX+/FHeLlfEfGTEnZZcQ4OXPM5NFGDJQXCE7irv13D2JVXqTW69U6aC783sAFib8hRl7mVEB0UjDj7OjjYwLQOHd2DFz10e4NX6J4Dthd7K5TBiQIrCD4Bdzb9sW/he01nJ5XVZfKu1KB4v91kgKqwmbrkJcxF/HwLN527zbxn8ellViTl23wJQs2dk4loZ2fYGC04McxU3NxnIEblvfgrx0HLB3+O0ubXtkAqZXyKbwsuGd8Lpa/lzzE2II6Q6C7PndzTyTojijQB1CmdyyrtlkXr7NuVvK4NtsiR94L</data>
+    <data>AAAD4PlP2cPDH2Yv1DKRw7IJVerYWpYCet1ivfqt3kJ7Q5cp9E7ZXMG4yTDy6wRKN0EMlDe0We8kJfQ77Nu3BiWP+G9TbPxJUP9lLMzXluzWbze0eWwbyWZIdXmtef701zS23zpBmLtc/syMLBiLTlQ3bvAOEOqUDJ/UWLwMG9CQN4W4ol2Aym7voHPZTCUrhmgSjp25Xwvr8uV3DHBOfw2x3ckpw1y9TcaxB0tTakW1hAQBjeJzGZa+HaQlzKHGnkyoCRW+E3Fgyv2po8iOR7h68A9zN5x0mkPND48wQtDWOkxpHEdFeFgf9p4IMPq09q3+mXZSj7sqXdOQ0XyIFW6tDbme3xb7KdLxbGbYJlUu4YoRHPTa6peb+tD9mV4gWbXca218C0l6YdrvjEaujzeqMbP2zFSs+1wDFwzKJ/SLtyGk4avN+aQOZZ0uTPeidH/0v0a2oA1bg6+bbYfckhixBwhwQrGWVBNi3rs+KSBUFkOPYYXzyQBeadutcRE8FWhmYYXREZZNj9LRNuqXyHxPqvtrVmswi909/pfHd/dchmZLzVuE9g70kr+W+1AnZmnwcvpx3H4ZAqcmlqUscRQBvTeoSc2H0jA6VUIxovPOPRGS0NfQjw/LBZdK5vLFQO0uwZ3m38Av2uDOlo6Z5H794LTnsWUOWnaPVBbqbHE05EiZiIy8CaLaiuA1yVIjeacvUG/jDK1clUqcj3PSVxHJdKKaOIhClwj0TS2muHnulMQw6hb2CQuVUHJ4ulagzsv9ktqWx4pbvVgE+JaGO7koRnntClByAelzK1rUYTy2F9WIDT757twKQsKA8j3vAdXl6FEHYLsTvV3/2KnEofi8IPpqcG3IgT+C4AI8os1SVQjDWHg4jy7QsDp5FCaUpT5LX04yUz/U5WmwUxkUO8QSSmgA+xJheRYJAm+HVPs7dVGf5lUIrpXGki3IdGfetrNZ7q6DuQQlF2h4sJGRQvajhTJgt3YnDBST94Ls/OW2hpjUABFDzFb9L+F61V810HpeS5fJ/wvK7BLPdS1+22+XjafTBIDv10TJL7uzgYOBQ+yfcahEuCksmXuWaBzcPdfFouEtNepq1zZVz5LRW/n+YA60T/VIa8mlB5gY+jRwzU8yvdiIiZC6Olg37HJv3OAbYY0AkCayHzmKQ9C5pfPIK7pJy+x69ZyPJDpvQGhrpqe6EBbI6TmTxBt1BHFpTX0BZTF6WGdYLxFdBA9NvAXMqD0fJ6Glnyj2AnBDNzrdED9LkkER19/U2RadhAWcvHWPgndkqo/XECR6fa2vNigr20JRP+HSSfR+uX6rGg+xLMfjwJi+UukmPaV9LCXgLiRuXw==</data>
   </component>
 </application>
