@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../paypalpro/callerservice.php - [elitelooks]'" />
-    <option name="defaultScopeName" value="File '.../paypalpro/callerservice.php - [elitelooks]'" />
-    <option name="SEARCH_SCOPE" value="File '.../paypalpro/callerservice.php - [elitelooks]'" />
+    <option name="customScope" value="File '.../content/giver-signup-modal.php - [Paired for Care]'" />
+    <option name="defaultScopeName" value="File '.../content/giver-signup-modal.php - [Paired for Care]'" />
+    <option name="SEARCH_SCOPE" value="File '.../content/giver-signup-modal.php - [Paired for Care]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
