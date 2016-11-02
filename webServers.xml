@@ -41,7 +41,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="76aad58f-a34d-413d-a84e-cacc0d425552" name="Paired For Care" url="http://pairedforcare.com">
+      <webServer id="76aad58f-a34d-413d-a84e-cacc0d425552" name="Paired For Care" url="https://pairedforcare.com">
         <fileTransfer host="pairedforcare.com" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
@@ -68,9 +68,26 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="8b61fb6d-b50d-40ed-9e28-62806640554d" name="IntegratedWebworks.com" url="http://integratedwebworks.com/">
+        <fileTransfer host="209.213.104.164" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e8cf1d2-0e37-4013-9028-8e1564613bf0" name="Astoria Assisted Living" url="http://143.95.238.29/~astoria">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
+    <data>AAAE0HMYY+rd/wOxsU+/YSc1HFTFeUNE7PYI11IJc4WrTRPDXtVifM/pBMUk6gkHwUKfSMAKUNABEnaK7mvf9+6Y952Sac+AA1/XtDjbyxZPxhvbNv4u86zJ19i8GYRQUtHMvCGsQMLRu4feNB0xRTCCtqgsfXJ/hCZcYL8wtZ+IfuF22b9HnxVY5+vaLvfEH0DTwQ9XHBVDZS4f6aqMQaNwqSD63KqKZZSIh6yYd3mCF7NTKwUg6Q0sYbfMrKmq/y0vzduE4mMpbVVNw+0N12ynPDBw/ARywaK0RKM3mb3vZ06vBDotX2l2zHXTmnqeO6qXv1RUIwArz9CtAk6NRTk3mxdrLvVvz8QPw7teqsrrDSsr8ygi7OHCff1P2E6b5fvnKrQayQXlY5oqaVw09CDIGlM+ihVk7j85OdnPq789ub9eKuSNafgWrbnmSpLcBuwg6uuGMOSR/wzyMftyGA2smNOrREZOAcWsN0LQ58smG2AR6aQsVYV70WKKLj9y5pusU7P4tKLIwrAu33FGRP2Mrv+Y10Ko+AB2hjxqnOdV6mKeqqYBHKG4AKatKmED1TyIptjjF+xl9pOPfsESezMTFyMPfnVIJxikUkd4clsLCSOR8ad4UOCbS6ges/MA3pYsI0qTJLy4KPcwCG+zFV6Ephi2QQRsq3Jqp75iyxY+/Da8Jc17uuGao/PymQMRhyHrpVz/gVjvFNOYmhE/f6TTfC1MXV6OeMcRiwgUZPSaehRMiCxQ83sdSkYXPjC/EC5RsjqJLYdumFzXp8S2m7SVNS4dt9hK9PYQFvciRYWZi4ZB21QFnz1sFdLM/BmjW7ZY046wHE3HDeWml4MtRvSaFwpXaSUF+cmezKRX3yYoNz9Kg1vmx2cSAsULBf26hysVzFWc1JwiHGG40lPN09+jYi8/sBb0GP6c8Vv12QJlroccwFxBN7fwCfckg6pRFONdIfj2hn2hKMetB35MB1rFlEB/9lypWE1Dbpyper7scyocnhr6zwQfewOBx1ZdhHY6gyi4Cqs5qrOqztLlm9rRcwFu4hpBD6KURHPNEWKCR/Jf0fhHtQ9vXQhI7WX4/7f7pYDrgBFAFrV+uo77TFqkDT1nSDcMkG/5pfgpltbvmJGz16EJEsd3xQ+agVco9jMpGntokvMxCX7AdE6axiWhRit7dDPCPxkn00RL2WuVDaz7bVl3GxUqWl88lkuTVt3QZThHQeexMA4li5TX54aauCaeUs+qlWUlLo4KucZ6xuZi2yrrBI0hjJk3J7SbS2JD9o1mOlRW7E7w5vXXC+oEcXT2g07rOYlRZDgjf2MiX0haGi5G0U/7mUuviSh+6d4OxOM6Hkr9k9yDqWeFq6Gbv/hs9d1ZMFat2Obam1xXZh5UOEc6UvvTVnig/b2eFxy6bj4lnrK1QTjpHlbPi4IGq/jywpzihTu8GXNb1c52d0UHymblQZoi3O24hbl62o4Drnbr6T04K6mspgsNve2zcogkFZJ11FVRZHIHn0J81/rxo/Ee8+3yjEHAS/DVkUfWvaWR7fbQ/Ng9ZTKj3zvL+uv05SyOfZYrgV5QCr2HXTVeIcHdhDbz4YVZfdmmKClq2n4ZX8QKEoIw+NwJ2dGR8gzDqHkUAf04c1/sfYuBOuS+Z5/OU0OBj4A/dqZgqUvyvw==</data>
     <data>AAAD4FCnTYNwFRG/awMF9iE6kOXPYS0l22XGLV/1gJH3atRrREd2K/IKTd4i2rIrRQAtiJrcVwSwwKGAGqEoBrt7ByDzE85v6ce8ktNJu+RVmtGwNInlHC98qMXgcparEHv/qBD9d+uxTiiyn54rEIrWFkc5A0DCYx1CYqwxY7Zw5A3Lic7Y+qy7pb4yqas7wrFjrFQe1Gv+xQlzjUhpbw5Du9v5sJjm7+Gnw/54+sxu6zkXe5lw2XOEl+eqzOGxi4+DCVSoXTgCNstGeEnyvzgETiACmUshNILal2iJoExv7leJjy2qxcEERuluMYzEeUGNaBNm7vouZ4SvvtmbFCBZSrPwrZo1AclFdZOgAz6X17O0axnmzi8qlTFsLtngN9VvJCS+h2/aVPbC75fOQClgGHawIYxU6l4l39j5MMQQ7+MsPvMOY336TrPAfVEEcbcnONFxUWEUxAvf/blSLrGrG1MC0ufpCvaEbMRRriJetnlJ9xoN5JCCW6Zeu27nAyD/1IWee6iCqENxXpyBZvx2jz+XScbjRzvMcXmwqZGk8rWa5mkWjIVo54xl413rhdCSE04jUS4EzoBZBng6phA6rUw6En2R8u95Jd8r9ifWWf1ugNBJwPHVbTIgXhzLHDDVgTX/6FY5S6mIaIVzCj3Rcteue63ale302TTIiELJqssy6H8OFDWv/DdeIf5X6G80rLJn8K6KPiR1pNvEinW8XDYzhNJZnFr68i1+oBy3qoOG+QfX0FCEuVYh0MKV6RJMX9pprYc4l5rRMIvJTKg+duSI3wuWX2MlkLTCFce9oyTs3FJfY9Kl/RhvUsiRPk4G5FlvYo8Lj6s5plfqVM/oTXo0AVVYt/IR9KQ+TlRFyl15rPgxhhKrGsVxHxa0vsIqSsyT3oiCg9r2wlKHvmdN73GPRq8/bkdKvqM7IubWVM/Mxmu5Y5/XdwVwIOBYQ7tTvzTtwaiolI9/wCNBzaotgJywjk1s4jy6ZuiRSKcytXJ8zPVEFLR6KAV9zUaxVLdqDinTllL0mu5wjWOADooIY98k+E7CxJqGtF3DE225B6pY9uQvVqzjbaoM20ryLTEjtNhxK5/iQ1CTTfBz5QuSfybFJAEz+5dE+KXHcsFBr7mYBqArsleoX7uNFNWrxbbCFLCxuX5rtTpIa/oPBEnTHssNQD+U2qhRk7RtgB7Fj33P8OBn//glocVvw5nJK4b2JzyrPiPJ4urGSjMhu2c6B/kKNqqmzqqk+tYX4owy5NhW+3Mf6mU1aqHt8ewqvOCFJGRjgpmbvG8CxNQhIU4llTCKXErvopVZYfF8wwWRnn9TcydL+OVVtGGKQ0enWcDjTA==</data>
   </component>
 </application>
