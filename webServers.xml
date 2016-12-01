@@ -124,6 +124,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c44a25ce-3932-4ea4-848b-e2a6ba77a660" name="PALS" url="http://143.95.238.29/~palsapp">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
