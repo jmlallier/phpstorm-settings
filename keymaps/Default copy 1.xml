@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+</keymap>
