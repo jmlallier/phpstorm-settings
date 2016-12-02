@@ -132,6 +132,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f3fff5cf-6b1d-4c23-9dd4-b1b73cdfc747" name="Ashley Brooke Dev" url="http://ashleybrookephoto.com">
+        <fileTransfer host="ashleybrookephoto.com" port="22" rootFolder="/home1/ashleybr/public_html/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABIIA0w02qHgH46hgKayS5ZvHaC9+d7JudT74y3StOJELXK4F0bR4P6VIGeD8a/CR1cuFxv4Yy6HQ3i40Z6t6X9VdTwMxME7l5vzS4JhyqL094+HMypV0VKcMzdf828Tl4lMltd5e236oDR+RCI5iEWvUriodpBUar9XXSuOtL3ossDCI6xVJev+SA1baif6ksMIVmH6siMA5mC82CRVjN7jtPnA9chbAg8QtzifWJ9GrFtiFHCO8SJF6dt4ZLt/bNb10/bvVrvarCxv0KGIya/iR1vLLUPi8+kKUIm1A8hO8N50zLa3NhTHT58KdMN9lYsRQrq+hq5jQUH6NQMerVkSRKJm7gSG0p9dp4CEQDDNUuDU1HUbZoqaMrRgDUM2rGSkCIps6xVRIe4YT2+YrIwh0=</data>
   </component>
 </application>
