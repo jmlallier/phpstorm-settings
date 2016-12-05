@@ -132,6 +132,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8a29975e-2617-48e9-9f58-3a03b9eccb4d" name="Rich Hunter" url="http://143.95.238.29/~richhunter">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
