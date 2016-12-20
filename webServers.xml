@@ -156,6 +156,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="dfe9db13-e77d-4db1-b06a-2f00973e5a80" name="Renew Now CEU" url="http://143.95.238.29/~renew">
+        <fileTransfer host="143.95.238.29" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
