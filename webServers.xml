@@ -148,9 +148,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0e3922e9-7934-4ab3-93d7-4a6e1a73f5d3" name="Swideo" url="http://swideoapp.com/">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
-  </component>
-  <component name="webServersAuthStorage">
-    <data>AAAAsKYQIkfOe0MNk+erMZlN5m5hGQnwInR24xAR30l8V36qxyQsezgVPLxXvh4NjZ9DLK8iOyq3N1skx/0QeQAc3wlAleWZLiJKBOAd1Bfr2osmLHmfY1snnqSez5lqSNj1NZrk3VQBZh88zrpepG2RwEuo5OPHO6CyGZOctMd49PharOfJ9Ji6KeqC+5d+tA/86B6FmpaN/QABnZm5hwWV38qqJmqZJBnpdAvjVpyiaLgMwHmeOXid6X5ZKQECAnpwdw==</data>
   </component>
 </application>
