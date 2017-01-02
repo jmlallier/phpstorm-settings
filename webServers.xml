@@ -111,7 +111,7 @@
       <webServer id="f7c9b288-cf00-4439-8e2a-ac188b9afb85" name="Out of Style Firearms" url="http://143.95.238.29/~osfirearms">
         <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
