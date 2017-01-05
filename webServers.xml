@@ -111,7 +111,7 @@
       <webServer id="f7c9b288-cf00-4439-8e2a-ac188b9afb85" name="Out of Style Firearms" url="http://143.95.238.29/~osfirearms">
         <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -150,6 +150,22 @@
       </webServer>
       <webServer id="0e3922e9-7934-4ab3-93d7-4a6e1a73f5d3" name="Swideo" url="http://swideoapp.com/">
         <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dfe9db13-e77d-4db1-b06a-2f00973e5a80" name="Renew Now CEU" url="http://143.95.238.29/~renew">
+        <fileTransfer host="143.95.238.29" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ad9e6bc-1c32-4da2-ac11-dc71f9388404" name="JDM Auto" url="http://143.95.238.29/~jdmauto">
+        <fileTransfer host="143.95.238.29" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
