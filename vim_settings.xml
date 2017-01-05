@@ -1,0 +1,72 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Sites/ashleybrooke/wp/wp-content/themes/ashleybrooke/style.css" timestamp="1483591232769">
+        <mark key="'" line="728" column="4" />
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="747" column="25" filename="$USER_HOME$/Sites/ashleybrooke/wp/wp-content/themes/ashleybrooke/style.css" />
+      <jump line="727" column="0" filename="$USER_HOME$/Sites/ashleybrooke/wp/wp-content/themes/ashleybrooke/style.css" />
+      <jump line="760" column="4" filename="$USER_HOME$/Sites/ashleybrooke/wp/wp-content/themes/ashleybrooke/style.css" />
+      <jump line="755" column="17" filename="$USER_HOME$/Sites/ashleybrooke/wp/wp-content/themes/ashleybrooke/style.css" />
+      <jump line="761" column="0" filename="$USER_HOME$/Sites/ashleybrooke/wp/wp-content/themes/ashleybrooke/style.css" />
+      <jump line="728" column="4" filename="$USER_HOME$/Sites/ashleybrooke/wp/wp-content/themes/ashleybrooke/style.css" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">dWwuc29jaWFsIGxpIGEgaS5mYSB7Cglmb250LXNpemU6IDE2cHg7Cglmb250LXdlaWdodDogYm9sZDsKfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dWwuc29jaWFsIGxpIGEgaS5mYSB7Cglmb250LXNpemU6IDE2cHg7Cglmb250LXdlaWdodDogYm9sZDsKfQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>i</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>map \:w :action Save</entry>
+        <entry>w</entry>
+        <entry encoding="base64">bWFwIFxyIDphY3Rpb24gUmVmb3JtYXRDb2RlPENSPg==</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Save</entry>
+        <entry>action SaveAll</entry>
+        <entry>action SaveDocument</entry>
+        <entry>cla menu</entry>
+        <entry>wa</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
