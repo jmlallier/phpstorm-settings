@@ -1,6 +1,7 @@
 <code_scheme name="Default (2)">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,cite,cite,code,dfn,em,font,kbd,q,s,samp,strike,strong,sub,sup,tt,u,var" />
   <option name="HTML_QUOTE_STYLE" value="Single" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <CssCodeStyleSettings>
