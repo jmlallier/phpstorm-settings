@@ -180,6 +180,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="be17f4fd-7575-457f-b056-4f5c1c768598" name="My Father's Rose" url="http://69.42.84.204/~myfather">
+        <fileTransfer host="69.42.84.204" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
