@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="d475d277-9fef-4e67-a98d-183de42bbbbf" name="Elite Looks" url="http://143.95.239.3/~elitelook/">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="444989f6-eac8-417d-98e9-281f6e2161fe" name="tipmonkey" url="http://tipmonkeyapp.com/">
         <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html/">
           <advancedOptions>
