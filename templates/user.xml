@@ -1,6 +1,6 @@
 <templateSet group="user">
-  <template name="pre" value="echo ('&lt;pre&gt;');&#10;var_dump ( $var$ );&#10;echo ('&lt;/pre&gt;');" description="echo &lt;pre&gt; tags and var_dump $var" toReformat="true" toShortenFQNames="true">
-    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="pre" value="echo ('&lt;pre&gt;');&#10;$CODE$&#10;echo ('&lt;/pre&gt;');" description="echo &lt;pre&gt; tags and var_dump $var" toReformat="true" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Statement" value="true" />
       <option name="PHP Expression" value="true" />
@@ -10,6 +10,11 @@
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="lipsum" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." description="Lorem ipsum" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>

@@ -1,7 +1,14 @@
 <keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="RunInspection" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -20,5 +27,8 @@
   <action id="Vcs.UpdateProject" />
   <action id="WebDeployment.BrowseServers">
     <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.DuplicateAndIncrementAction">
+    <keyboard-shortcut first-keystroke="shift meta alt i" />
   </action>
 </keymap>
