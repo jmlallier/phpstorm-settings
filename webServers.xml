@@ -196,6 +196,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="d55ccb03-8b50-4229-8f0b-14547d25dbc7" name="Cremation Services" url="http://143.95.238.29/~cremation">
+        <fileTransfer host="143.95.238.29" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
