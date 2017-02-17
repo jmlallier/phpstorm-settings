@@ -212,6 +212,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="475ebc2f-c0dd-46a5-a798-edcccc752e63" name="Howard Services" url="http://143.95.238.29/~howard">
+        <fileTransfer host="143.95.238.29" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
