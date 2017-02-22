@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../content/purchase_confirmation.php - [Renew Now CEU]'" />
-    <option name="defaultScopeName" value="File '.../content/purchase_confirmation.php - [Renew Now CEU]'" />
-    <option name="SEARCH_SCOPE" value="File '.../content/purchase_confirmation.php - [Renew Now CEU]'" />
+    <option name="customScope" value="File '.../tests/Feature/ExampleTest.php - [product-service]'" />
+    <option name="defaultScopeName" value="File '.../tests/Feature/ExampleTest.php - [product-service]'" />
+    <option name="SEARCH_SCOPE" value="File '.../tests/Feature/ExampleTest.php - [product-service]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

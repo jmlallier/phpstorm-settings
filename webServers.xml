@@ -196,6 +196,30 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="d55ccb03-8b50-4229-8f0b-14547d25dbc7" name="Cremation Services" url="http://143.95.238.29/~cremation">
+        <fileTransfer host="143.95.238.29" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="186740b6-f970-4cec-afcd-10639ec95085" name="SEC" url="http://savannaheducationalconsultants.com">
+        <fileTransfer host="savannaheducationalconsultants.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="475ebc2f-c0dd-46a5-a798-edcccc752e63" name="Howard Services" url="http://143.95.238.29/~howard">
+        <fileTransfer host="143.95.238.29" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
