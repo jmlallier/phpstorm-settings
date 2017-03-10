@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../tests/Feature/ExampleTest.php - [product-service]'" />
     <option name="defaultScopeName" value="File '.../tests/Feature/ExampleTest.php - [product-service]'" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../tests/Feature/ExampleTest.php - [product-service]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
