@@ -220,6 +220,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6e869d69-0e29-4906-8a10-52106019cc6c" name="IWW Support" url="http://iwwsupport.com">
+        <fileTransfer host="209.213.104.164" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
