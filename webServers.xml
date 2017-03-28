@@ -50,7 +50,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="76aad58f-a34d-413d-a84e-cacc0d425552" name="Paired For Care" url="https://pairedforcare.com">
-        <fileTransfer host="pairedforcare.com" port="21" rootFolder="/public_html">
+        <fileTransfer host="23.235.201.131" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
