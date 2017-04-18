@@ -220,6 +220,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="1bba4db4-35d1-4634-bf00-7324612e8506" name="StafForce" url="http://stafforcejax.com/">
+        <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
