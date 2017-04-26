@@ -49,14 +49,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="76aad58f-a34d-413d-a84e-cacc0d425552" name="Paired For Care" url="https://pairedforcare.com">
-        <fileTransfer host="23.235.201.131" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="fb099b48-d70f-406d-995a-c4da9480b2f0" name="Local Siteadmin" url="http://siteadmin.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
@@ -222,6 +214,14 @@
       </webServer>
       <webServer id="6e869d69-0e29-4906-8a10-52106019cc6c" name="IWW Support" url="http://iwwsupport.com">
         <fileTransfer host="209.213.104.164" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1bba4db4-35d1-4634-bf00-7324612e8506" name="StafForce" url="http://stafforcejax.com/">
+        <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
