@@ -61,11 +61,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="e32f1945-1e20-4599-9f61-e0d71b8844ea" name="Ashley Brooke" url="http://ashleybrookephoto.com">
-        <fileTransfer host="ashleybrookephoto.com" port="22" rootFolder="/home1/ashleybr/public_html" accessType="SFTP">
+        <fileTransfer host="ashleybrookephoto.com" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="8b61fb6d-b50d-40ed-9e28-62806640554d" name="IntegratedWebworks.com" url="http://integratedwebworks.com/">
