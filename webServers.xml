@@ -61,11 +61,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="e32f1945-1e20-4599-9f61-e0d71b8844ea" name="Ashley Brooke" url="http://ashleybrookephoto.com">
-        <fileTransfer host="ashleybrookephoto.com" port="22" rootFolder="/home1/ashleybr/public_html" accessType="SFTP">
+        <fileTransfer host="ashleybrookephoto.com" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="8b61fb6d-b50d-40ed-9e28-62806640554d" name="IntegratedWebworks.com" url="http://integratedwebworks.com/">
@@ -224,6 +224,14 @@
         <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0f49e9be-7f59-47bc-ab83-c6209941f707" name="ONPL" url="http://onploffice.net">
+        <fileTransfer host="209.213.104.164" port="21" rootFolder="/public_html/new">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
