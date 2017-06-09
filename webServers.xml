@@ -236,6 +236,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="be2a082c-27d9-4447-bd2b-346be68595c3" name="Sunesta Dealers" url="http://143.95.237.35/~sunestadealers">
+        <fileTransfer host="143.95.237.35" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
