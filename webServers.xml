@@ -228,6 +228,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="ec27a7b0-94ef-445d-953e-69002c7526c5" name="Find A Pilot Car" url="https://findapilotcar.com">
+        <fileTransfer host="143.95.253.111" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
