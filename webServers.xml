@@ -165,7 +165,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="baa149dd-d3d2-4791-b4de-e703ea6e5c20" name="Bird Dog" url="http://birddogapp.com/">
-        <fileTransfer host="143.95.239.3" port="21">
+        <fileTransfer host="143.95.239.3" port="21" rootFolder="/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
