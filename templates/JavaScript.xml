@@ -1,0 +1,16 @@
+<templateSet group="JavaScript">
+  <template name="equalHeight" value="var maxheight = 0;&#10;$(&quot;$SELECTOR$&quot;).each(function(){&#10;  if($(this).height() &gt; maxheight) { maxheight = $(this).height(); }&#10;});&#10;&#10;$(&quot;$SELECTOR$&quot;).height(maxheight);" description="Even out the playing field" toReformat="true" toShortenFQNames="true">
+    <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ajax" value="$.ajax({&#10;  type: '$HTTP_METHOD$',&#10;  url: '$URL$',&#10;  data: $('$FORM_SELECTOR$').serialize(),&#10;  success: function(data){&#10;    // on success use return data here&#10;  },&#10;  error: function(xhr, type, exception) { &#10;    // if ajax fails display error alert&#10;    alert(&quot;ajax error response type &quot;+type);&#10;  }&#10;});" description="AJAX" toReformat="false" toShortenFQNames="true">
+    <variable name="HTTP_METHOD" expression="" defaultValue="POST" alwaysStopAt="true" />
+    <variable name="URL" expression="" defaultValue="ajax_actions.php" alwaysStopAt="true" />
+    <variable name="FORM_SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
