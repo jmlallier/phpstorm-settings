@@ -236,6 +236,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="036deb3d-d645-48ff-8269-9969005d577b" name="StormForce Tracking 2" url="http://stormforceofjacksonville.com/tracking2">
+        <fileTransfer host="69.42.84.204" port="21" rootFolder="/tracking2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
