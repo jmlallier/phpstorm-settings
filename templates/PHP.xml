@@ -47,4 +47,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="@test" value="/** @test */&#10;function $NAME$() {&#10;    $CODE$&#10;}" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="// Code goes here" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
