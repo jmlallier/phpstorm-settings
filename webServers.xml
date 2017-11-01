@@ -247,6 +247,14 @@
       <webServer id="fd3aef10-b1e1-4953-bb80-dc51c3205836" name="Forum" url="http://forum.app">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="dc5cc07a-7619-4b35-b7a7-f9809fa982f2" name="MyACAPerformance" url="http://67.225.162.239">
+        <fileTransfer host="67.225.162.239" port="21" rootFolder="/httpdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
