@@ -255,6 +255,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="946a6c13-98c1-4d15-8d6c-2339c1917d51" name="Forum" url="http://forum.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
