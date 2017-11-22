@@ -236,8 +236,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="036deb3d-d645-48ff-8269-9969005d577b" name="StormForce Tracking 2" url="http://stormforceofjacksonville.com/tracking2">
-        <fileTransfer host="69.42.84.204" port="21" rootFolder="/public_html/tracking2">
+      <webServer id="036deb3d-d645-48ff-8269-9969005d577b" name="StormForce Tracking" url="http://stormforceofjacksonville.com/tracking">
+        <fileTransfer host="69.42.84.204" port="21" rootFolder="/public_html/tracking">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -255,7 +255,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="946a6c13-98c1-4d15-8d6c-2339c1917d51" name="Forum" url="http://forum.dev">
+      <webServer id="946a6c13-98c1-4d15-8d6c-2339c1917d51" name="Forum (1)" url="http://forum.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
