@@ -61,4 +61,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="??" value="&lt;?php&#10;    $END$&#10;?&gt;" description="&lt;?php // code ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
