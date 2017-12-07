@@ -17,4 +17,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="?=" value="&lt;?= $VARIABLE$; ?&gt;" description="PHP Echo Shorthand" toReformat="true" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
+    </context>
+  </template>
 </templateSet>
