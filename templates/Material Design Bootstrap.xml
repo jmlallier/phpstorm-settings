@@ -1,0 +1,9 @@
+<templateSet group="Material Design Bootstrap">
+  <template name="mdtext" value="&lt;div class=&quot;md-form&quot;&gt;&#10;    &lt;input name='$FIELDNAME$' type=&quot;text&quot; id=&quot;$FIELDNAME$&quot; class=&quot;form-control&quot; placeholder&quot;$PLACEHOLDER$&quot;&gt;&#10;&#9;&lt;label for=&quot;$FIELDNAME$&quot; data-error=&quot;&quot; data-success=&quot;&quot; class=&quot;&quot;&gt;&#10;&#9;    $END$&#10;&#9;&lt;/label&gt;&#10;&lt;/div&gt;" description="Material Design Form Text Field" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELDNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PLACEHOLDER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
