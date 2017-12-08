@@ -67,4 +67,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="rqro" value="require_once __DIR__ . '/$END$';" description="'require_once' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
