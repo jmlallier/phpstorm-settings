@@ -24,4 +24,37 @@
       <option name="HTML_TEXT" value="false" />
     </context>
   </template>
+  <template name="!e?" value="if (!empty($VAR$)) {&#10;    $END$&#10;}" description="If not empty, block of php" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="!e&amp;" value="if (!empty($VAR$) &amp;&amp; $EXPRESSION$) {&#10;    $END$&#10;}" description="If not empty AND something else, block of php" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="!eh" value="if ( !empty( $VAR$ ) ) { ?&gt;&#10;    $END$&#10;&lt;?php" description="If not empty, HTML" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="!ehh" value="&lt;?php if ( !empty( $VAR$ ) ) { ?&gt;&#10;$END$&#10;&lt;?php } ?&gt;" description="If not empty, HTML" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="forecho" value="foreach ($ITERATION$ as $VALUE$) {&#10;    echo &quot;$END$&quot;;&#10;}" description="For each iteration as value, echo" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
