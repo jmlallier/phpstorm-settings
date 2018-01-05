@@ -258,6 +258,14 @@
       <webServer id="946a6c13-98c1-4d15-8d6c-2339c1917d51" name="Forum (1)" url="http://forum.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="130d7d15-6bd1-4e00-b65e-4aaeb76a6943" name="Aclassic Redesign" url="http://209.182.199.65/~aclassic">
+        <fileTransfer host="209.182.199.65" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
