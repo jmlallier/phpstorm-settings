@@ -180,12 +180,12 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="d55ccb03-8b50-4229-8f0b-14547d25dbc7" name="Cremation Services" url="http://143.95.238.29/~cremation">
-        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html">
+      <webServer id="d55ccb03-8b50-4229-8f0b-14547d25dbc7" name="Cremation Services" url="http://209.182.199.65/~cremation">
+        <fileTransfer host="209.182.199.65" port="2222" privateKey="$USER_HOME$/.ssh/cremation" rootFolder="/home/cremation/public_html" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
       <webServer id="186740b6-f970-4cec-afcd-10639ec95085" name="SEC" url="http://savannaheducationalconsultants.com">
