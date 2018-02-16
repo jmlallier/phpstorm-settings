@@ -12,9 +12,6 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="RunInspection" />
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift t" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
