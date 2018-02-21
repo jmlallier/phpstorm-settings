@@ -266,6 +266,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="899c07c1-f5b7-4555-9fc5-130143531f18" name="Renew Central Demo" url="http://143.95.237.35/~renewcentral">
+        <fileTransfer host="143.95.237.35" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
