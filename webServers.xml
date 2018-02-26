@@ -133,7 +133,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="27a95888-245f-4eb4-ba11-e373b2e7d7e1" name="Earth Pets" url="http://143.95.238.29/~earthpets">
-        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/new">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
