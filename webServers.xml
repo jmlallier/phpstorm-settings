@@ -133,7 +133,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="27a95888-245f-4eb4-ba11-e373b2e7d7e1" name="Earth Pets" url="http://143.95.238.29/~earthpets">
-        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/new">
+        <fileTransfer host="143.95.238.29" port="21" rootFolder="/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -262,6 +262,22 @@
         <fileTransfer host="209.182.199.65" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="899c07c1-f5b7-4555-9fc5-130143531f18" name="Renew Central Demo" url="http://143.95.237.35/~renewcentral">
+        <fileTransfer host="143.95.237.35" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="597b878b-97a7-406c-bd26-0ddea86bcfad" name="Renew Central" url="http://209.182.199.65/~renewcentral">
+        <fileTransfer host="209.182.199.65" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
