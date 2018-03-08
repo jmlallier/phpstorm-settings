@@ -180,8 +180,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="d55ccb03-8b50-4229-8f0b-14547d25dbc7" name="Cremation Services" url="https://cremationserviceofflorida.com">
-        <fileTransfer host="209.182.215.130" port="21" rootFolder="/public_html">
+      <webServer id="d55ccb03-8b50-4229-8f0b-14547d25dbc7" name="LCI Jax" url="http://209.182.199.65/~lcijax">
+        <fileTransfer host="209.182.199.65" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
